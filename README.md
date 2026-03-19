@@ -9,7 +9,7 @@
 
 ## 🌱 About Me
 
-- 🎓 Studying at **Binus University**, Jakarta
+- 🎓 Studying at **Binus University**, Indonesia
 - 🤖 Passionate about **machine learning** and **AI-powered applications**
 - 🔍 Exploring the real-world problems
 - 💌 Reach me at: `sabrina.devi@binus.ac.id`
