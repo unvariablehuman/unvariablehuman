@@ -1,39 +1,49 @@
-<h1 align="center">Hi there, I'm Sabrina Arfanindia Devi 👋</h1>
+<h1 align="center">Sabrina Arfanindia D</h1>
 
 <p align="center">
-  <em>Computer Science student at Binus University · Indonesia 🌙</em><br/>
-  <em>Building things at the intersection of AI, web, and the world around us</em>
+  Computer Science Student at Binus University, Indonesia
+</p>
+
+<p align="center">
+  Building with code • Exploring AI • Designing meaningful systems
 </p>
 
 ---
 
-## 🌱 About Me
+### About
 
-- 🎓 Studying at **Binus University**, Indonesia
-- 🤖 Passionate about **machine learning** and **AI-powered applications**
-- 🔍 Exploring the real-world problems
-- 💌 Reach me at: `sabrina.devi@binus.ac.id`
-- 🔗 Let's connect on [LinkedIn](https://www.linkedin.com/in/sabrina-arfanindia-d-53b976372)
+Computer Science student at **Binus University** with an interest in  
+**Artificial Intelligence, Machine Learning, and Software Development**.
 
----
-
-## 🛠️ Tech Stack
-
-```
-Languages    →  Python · SQL · HTML · CSS · JavaScript
-AI/ML        →  TensorFlow · MobileNetV2 · Gradio
-Tools        →  Git · GitHub · VS Code
-```
+I enjoy turning ideas into practical systems — from training models to building interfaces that feel intuitive and useful.
 
 ---
 
-<p align="center">
-  <i>"Code is how I make sense of the world — one commit at a time."</i><br/><br/>
+### Tech Stack
+
+**Languages**  
+Python • SQL • JavaScript • HTML • CSS  
+
+**Tools & Frameworks**  
+Figma • Hugging Face • Git • VS Code  
+
+---
+
+### Currently
+
+- Exploring AI & Machine Learning research  
+- Building projects with Python & more...  
+- Learning more about software engineering and system design  
+
+---
+
+### Connect
+
+<p>
   <a href="https://www.linkedin.com/in/sabrina-arfanindia-d-53b976372">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Binus%20University-003D7A?style=flat&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Indonesia-CE1126?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white"/>
+  <a href="mailto:sabrina.devi@binus.ac.id">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
