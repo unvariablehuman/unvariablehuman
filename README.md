@@ -22,7 +22,7 @@ I enjoy turning ideas into practical systems — from training models to buildin
 ### Tech Stack
 
 **Languages**  
-Python • SQL • JavaScript • HTML • CSS  
+Python • SQL • R • JavaScript • HTML • CSS  
 
 **Tools & Frameworks**  
 Figma • Hugging Face • Git • VS Code  
